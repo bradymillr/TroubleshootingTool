@@ -1,4 +1,4 @@
-# Troubleshooting Tool
+# Multi-Command Troubleshooting Tool
 This is a simple yet effective troubleshooting tool for device connectivity and network connection, instead of having to manually run ping, then nslookup, and then tracert/traceroute for example, you can run them all side by side!
 
 ## Code
@@ -105,5 +105,7 @@ root.mainloop()
 
 ```
 
-# Examples Output
+# Example Output
+![Output 1](assets/img/networktool.png)
+
 
